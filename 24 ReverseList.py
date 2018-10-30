@@ -13,7 +13,7 @@ class Solution:
         
         while (pNode != None):
             # save next
-            pNext = pHead.next
+            pNext = pNode.next
             
             # find head
             if pNext == None:
