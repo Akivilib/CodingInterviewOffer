@@ -18,5 +18,5 @@ class Solution:
             pMergedHead = pHead2
             pMergedHead.next = self.Merge(pHead1,pHead2.next)
         
-        retrun MergedHead
+        retrun pMergedHead
       
