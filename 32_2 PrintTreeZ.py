@@ -6,7 +6,7 @@ class TreeNode:
         self.right = None
 
 def PrintTreeZ(root):
-    if not pRoot:
+    if not root:
         print ("False")
     stack = [[],[]]
     current = 0
