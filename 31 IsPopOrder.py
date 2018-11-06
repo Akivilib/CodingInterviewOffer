@@ -2,7 +2,7 @@
 class Solution:
     def IsPopOrder(self, pushV, popV):
         # write code here
-        if not pushV or pushV == []:
+        if not pushV:
             return False
         stack = []
         j = 0
