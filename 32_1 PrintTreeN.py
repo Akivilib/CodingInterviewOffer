@@ -7,7 +7,7 @@ class TreeNode:
         self.right = None
 
 def PrintTreeN(root):
-    if not pRoot:
+    if not root:
         print ("False")
     queue = [root]
     toBePrinted= 1
