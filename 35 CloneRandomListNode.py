@@ -1,4 +1,4 @@
-\# -*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 # class RandomListNode:
 #     def __init__(self, x):
 #         self.label = x
